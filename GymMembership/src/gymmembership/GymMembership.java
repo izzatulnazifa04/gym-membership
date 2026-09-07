@@ -4,12 +4,8 @@
  */
 package gymmembership;
 
-/**
- *
- * @author IZZATUL NAZIFA
- */
 public class GymMembership {
-
+    private String name;
     /**
      * @param args the command line arguments
      */
