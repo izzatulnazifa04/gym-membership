@@ -5,7 +5,6 @@ import gym.model.Membership;
 import gym.model.MembershipManager;
 import gym.model.MonthlyMembership;
 import gym.model.YearlyMembership;
-import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Font;
@@ -13,10 +12,10 @@ import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.GridLayout;
 import java.awt.Insets;
-import java.sql.SQLException;  // TEST
-import java.time.LocalDate;
+import java.sql.SQLException;
+import java.time.LocalDate; // test
 
-public class GymMembership {
+public class GymMembership { /*test*/
     private String name;
     /**
      * @param args the command line arguments
