@@ -13,7 +13,7 @@ import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.GridLayout;
 import java.awt.Insets;
-import java.sql.SQLException;
+import java.sql.SQLException;  // TEST
 import java.time.LocalDate;
 
 public class GymMembership {
